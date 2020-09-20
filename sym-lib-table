@@ -1,3 +1,2 @@
 (sym_lib_table
-  (lib (name videobrick-sch-parts)(type Legacy)(uri ${KIPRJMOD}/lib/videobrick-sch-parts.lib)(options "")(descr ""))
 )
