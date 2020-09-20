@@ -1,4 +1,4 @@
-update=So 20 Sep 2020 21:03:32 CEST
+update=Mo 21 Sep 2020 00:15:47 CEST
 version=1
 last_client=kicad
 [general]
@@ -32,7 +32,7 @@ AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=0
-MinTrackWidth=0.2
+MinTrackWidth=0.127
 MinViaDiameter=0.4
 MinViaDrill=0.3
 MinMicroViaDiameter=0.2
@@ -249,7 +249,7 @@ dPairViaGap=0.25
 [pcbnew/Netclasses/1]
 Name=HDMI
 Clearance=0.2
-TrackWidth=0.2
+TrackWidth=0.127
 ViaDiameter=0.8
 ViaDrill=0.4
 uViaDiameter=0.3
